@@ -1,0 +1,121 @@
+// 024:  MPerlStveFrne14-RClick01.wav (-49.70)
+// 049:  MPerlStveFrne14-RClick02.wav (-37.50)
+// 071:  MPerlStveFrne14-RClick03.wav (-31.30)
+// 081:  MPerlStveFrne14-RClick04.wav (-28.90)
+// 094:  MPerlStveFrne14-RClick05.wav (-26.40)
+// 120:  MPerlStveFrne14-RClick08.wav (-22.10)
+// 124:  MPerlStveFrne14-RClick06.wav (-21.50)
+// 127:  MPerlStveFrne14-RClick07.wav (-21.10)
+<group> gain_cc12=12 loop_mode=one_shot key=43
+<region> lovel=001 hivel=024 amp_velcurve_024=1 sample=..\Wav\CPerlStveFrne14-RClick01.wav
+<region> lovel=025 hivel=049 amp_velcurve_049=1 sample=..\Wav\CPerlStveFrne14-RClick02.wav
+<region> lovel=050 hivel=071 amp_velcurve_071=1 sample=..\Wav\CPerlStveFrne14-RClick03.wav
+<region> lovel=072 hivel=081 amp_velcurve_081=1 sample=..\Wav\CPerlStveFrne14-RClick04.wav
+<region> lovel=082 hivel=094 amp_velcurve_094=1 sample=..\Wav\CPerlStveFrne14-RClick05.wav
+<region> lovel=095 hivel=120 amp_velcurve_120=1 sample=..\Wav\CPerlStveFrne14-RClick08.wav
+<region> lovel=121 hivel=124 amp_velcurve_124=1 sample=..\Wav\CPerlStveFrne14-RClick06.wav
+<region> lovel=125 hivel=127 amp_velcurve_127=1 sample=..\Wav\CPerlStveFrne14-RClick07.wav
+
+// 127:  MPerlStveFrne14-DynLH01.wav (-35.80)
+// 024:  MPerlStveFrne14-DynLH02.wav (-44.10)
+// 036:  MPerlStveFrne14-DynLH03.wav (-36.80)
+// 048:  MPerlStveFrne14-DynLH04.wav (-32.10)
+// 054:  MPerlStveFrne14-DynLH05.wav (-30.10)
+// 063:  MPerlStveFrne14-DynLH06.wav (-27.20)
+// 072:  MPerlStveFrne14-DynLH07.wav (-24.90)
+// 073:  MPerlStveFrne14-DynLH08.wav (-24.80)
+// 086:  MPerlStveFrne14-DynLH09.wav (-21.80)
+// 100:  MPerlStveFrne14-DynLH10.wav (-19.20)
+// 107:  MPerlStveFrne14-DynLH11.wav (-18.10)
+// 119:  MPerlStveFrne14-DynLH12.wav (-16.30)
+// 123:  MPerlStveFrne14-DynLH13.wav (-15.70)
+// 124:  MPerlStveFrne14-DynLH14.wav (-15.50)
+// 126:  MPerlStveFrne14-DynLH16.wav (-15.30)
+// 127:  MPerlStveFrne14-DynLH15.wav (-15.10)
+<group> gain_cc12=12 loop_mode=one_shot key=39
+<region> lovel=001 hivel=011 amp_velcurve_011=1 sample=..\Wav\CPerlStveFrne14-DynLH01.wav
+<region> lovel=012 hivel=024 amp_velcurve_024=1 sample=..\Wav\CPerlStveFrne14-DynLH02.wav
+<region> lovel=025 hivel=036 amp_velcurve_036=1 sample=..\Wav\CPerlStveFrne14-DynLH03.wav
+<region> lovel=037 hivel=048 amp_velcurve_048=1 sample=..\Wav\CPerlStveFrne14-DynLH04.wav
+<region> lovel=049 hivel=054 amp_velcurve_054=1 sample=..\Wav\CPerlStveFrne14-DynLH05.wav
+<region> lovel=055 hivel=063 amp_velcurve_063=1 sample=..\Wav\CPerlStveFrne14-DynLH06.wav
+<region> lovel=064 hivel=072 amp_velcurve_072=1 sample=..\Wav\CPerlStveFrne14-DynLH07.wav
+<region> lovel=073 hivel=073 amp_velcurve_073=1 sample=..\Wav\CPerlStveFrne14-DynLH08.wav
+<region> lovel=074 hivel=086 amp_velcurve_086=1 sample=..\Wav\CPerlStveFrne14-DynLH09.wav
+<region> lovel=087 hivel=100 amp_velcurve_100=1 sample=..\Wav\CPerlStveFrne14-DynLH10.wav
+<region> lovel=101 hivel=107 amp_velcurve_107=1 sample=..\Wav\CPerlStveFrne14-DynLH11.wav
+<region> lovel=108 hivel=119 amp_velcurve_119=1 sample=..\Wav\CPerlStveFrne14-DynLH12.wav
+<region> lovel=120 hivel=123 amp_velcurve_123=1 sample=..\Wav\CPerlStveFrne14-DynLH13.wav
+<region> lovel=124 hivel=124 amp_velcurve_124=1 sample=..\Wav\CPerlStveFrne14-DynLH14.wav
+<region> lovel=125 hivel=126 amp_velcurve_126=1 sample=..\Wav\CPerlStveFrne14-DynLH16.wav
+<region> lovel=126 hivel=127 amp_velcurve_127=1 sample=..\Wav\CPerlStveFrne14-DynLH15.wav
+
+// 127:  MPerlStveFrne14-DynRH01.wav (-30.30)
+// 022:  MPerlStveFrne14-DynRH02.wav (-45.30)
+// 047:  MPerlStveFrne14-DynRH03.wav (-32.20)
+// 058:  MPerlStveFrne14-DynRH04.wav (-28.70)
+// 068:  MPerlStveFrne14-DynRH05.wav (-25.90)
+// 077:  MPerlStveFrne14-DynRH06.wav (-23.80)
+// 089:  MPerlStveFrne14-DynRH07.wav (-21.20)
+// 105:  MPerlStveFrne14-DynRH08.wav (-18.30)
+// 108:  MPerlStveFrne14-DynRH09.wav (-17.80)
+// 114:  MPerlStveFrne14-DynRH10.wav (-16.90)
+// 123:  MPerlStveFrne14-DynRH11.wav (-15.60)
+// 125:  MPerlStveFrne14-DynRH14.wav (-15.30)
+// 125:  MPerlStveFrne14-DynRH12.wav (-15.30)
+// 126:  MPerlStveFrne14-DynRH15.wav (-15.10)
+// 126:  MPerlStveFrne14-DynRH13.wav (-15.10)
+// 127:  MPerlStveFrne14-DynRH16.wav (-15.00)
+<group> gain_cc12=12 loop_mode=one_shot key=40
+<region> lovel=001 hivel=009 amp_velcurve_009=1 sample=..\Wav\CPerlStveFrne14-DynRH01.wav
+<region> lovel=010 hivel=022 amp_velcurve_022=1 sample=..\Wav\CPerlStveFrne14-DynRH02.wav
+<region> lovel=023 hivel=047 amp_velcurve_047=1 sample=..\Wav\CPerlStveFrne14-DynRH03.wav
+<region> lovel=048 hivel=058 amp_velcurve_058=1 sample=..\Wav\CPerlStveFrne14-DynRH04.wav
+<region> lovel=059 hivel=068 amp_velcurve_068=1 sample=..\Wav\CPerlStveFrne14-DynRH05.wav
+<region> lovel=069 hivel=077 amp_velcurve_077=1 sample=..\Wav\CPerlStveFrne14-DynRH06.wav
+<region> lovel=078 hivel=089 amp_velcurve_089=1 sample=..\Wav\CPerlStveFrne14-DynRH07.wav
+<region> lovel=090 hivel=105 amp_velcurve_105=1 sample=..\Wav\CPerlStveFrne14-DynRH08.wav
+<region> lovel=106 hivel=108 amp_velcurve_108=1 sample=..\Wav\CPerlStveFrne14-DynRH09.wav
+<region> lovel=109 hivel=114 amp_velcurve_114=1 sample=..\Wav\CPerlStveFrne14-DynRH10.wav
+<region> lovel=115 hivel=123 amp_velcurve_123=1 sample=..\Wav\CPerlStveFrne14-DynRH11.wav
+<region> lovel=124 hivel=125 amp_velcurve_125=1 lorand=0.000 hirand=0.500 sample=..\Wav\CPerlStveFrne14-DynRH14.wav
+<region> lovel=124 hivel=125 amp_velcurve_125=1 lorand=0.500 hirand=1.000 sample=..\Wav\CPerlStveFrne14-DynRH12.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 lorand=0.000 hirand=0.500 sample=..\Wav\CPerlStveFrne14-DynRH15.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 lorand=0.500 hirand=1.000 sample=..\Wav\CPerlStveFrne14-DynRH13.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 sample=..\Wav\CPerlStveFrne14-DynRH16.wav
+
+// 117:  MPerlStveFrne14-HrdLH04.wav (-14.90)
+// 118:  MPerlStveFrne14-HrdLH01.wav (-14.80)
+// 118:  MPerlStveFrne14-HrdLH03.wav (-14.80)
+// 119:  MPerlStveFrne14-HrdLH02.wav (-14.70)
+// 120:  MPerlStveFrne14-HrdLH05.wav (-14.50)
+// 122:  MPerlStveFrne14-HrdLH06.wav (-14.20)
+// 123:  MPerlStveFrne14-HrdLH07.wav (-14.00)
+// 127:  MPerlStveFrne14-HrdLH08.wav (-13.50)
+<group> gain_cc12=12 loop_mode=one_shot key=41
+<region> lovel=001 hivel=117 amp_velcurve_117=1 sample=..\Wav\CPerlStveFrne14-HrdLH04.wav
+<region> lovel=117 hivel=118 amp_velcurve_118=1 lorand=0.000 hirand=0.500 sample=..\Wav\CPerlStveFrne14-HrdLH01.wav
+<region> lovel=117 hivel=118 amp_velcurve_118=1 lorand=0.500 hirand=1.000 sample=..\Wav\CPerlStveFrne14-HrdLH03.wav
+<region> lovel=119 hivel=119 amp_velcurve_119=1 sample=..\Wav\CPerlStveFrne14-HrdLH02.wav
+<region> lovel=120 hivel=120 amp_velcurve_120=1 sample=..\Wav\CPerlStveFrne14-HrdLH05.wav
+<region> lovel=121 hivel=122 amp_velcurve_122=1 sample=..\Wav\CPerlStveFrne14-HrdLH06.wav
+<region> lovel=123 hivel=123 amp_velcurve_123=1 sample=..\Wav\CPerlStveFrne14-HrdLH07.wav
+<region> lovel=124 hivel=127 amp_velcurve_127=1 sample=..\Wav\CPerlStveFrne14-HrdLH08.wav
+
+// 125:  MPerlStveFrne14-HrdRH01.wav (-14.00)
+// 122:  MPerlStveFrne14-HrdRH02.wav (-14.40)
+// 126:  MPerlStveFrne14-HrdRH03.wav (-13.90)
+// 126:  MPerlStveFrne14-HrdRH04.wav (-13.90)
+// 127:  MPerlStveFrne14-HrdRH05.wav (-13.70)
+// 121:  MPerlStveFrne14-HrdRH06.wav (-14.60)
+// 124:  MPerlStveFrne14-HrdRH07.wav (-14.10)
+// 125:  MPerlStveFrne14-HrdRH08.wav (-14.00)
+<group> gain_cc12=12 loop_mode=one_shot key=42
+<region> lovel=001 hivel=127 amp_velcurve_125=1 seq_length=2 seq_position=1 lorand=0.000 hirand=0.250 sample=..\Wav\CPerlStveFrne14-HrdRH01.wav
+<region> lovel=001 hivel=127 amp_velcurve_122=1 seq_length=2 seq_position=2 lorand=0.000 hirand=0.250 sample=..\Wav\CPerlStveFrne14-HrdRH02.wav
+<region> lovel=001 hivel=127 amp_velcurve_126=1 seq_length=2 seq_position=1 lorand=0.250 hirand=0.500 sample=..\Wav\CPerlStveFrne14-HrdRH03.wav
+<region> lovel=001 hivel=127 amp_velcurve_126=1 seq_length=2 seq_position=2 lorand=0.250 hirand=0.500 sample=..\Wav\CPerlStveFrne14-HrdRH04.wav
+<region> lovel=001 hivel=127 amp_velcurve_127=1 seq_length=2 seq_position=1 lorand=0.500 hirand=0.750 sample=..\Wav\CPerlStveFrne14-HrdRH05.wav
+<region> lovel=001 hivel=127 amp_velcurve_121=1 seq_length=2 seq_position=2 lorand=0.500 hirand=0.750 sample=..\Wav\CPerlStveFrne14-HrdRH06.wav
+<region> lovel=001 hivel=127 amp_velcurve_124=1 seq_length=2 seq_position=1 lorand=0.750 hirand=1.000 sample=..\Wav\CPerlStveFrne14-HrdRH07.wav
+<region> lovel=001 hivel=127 amp_velcurve_125=1 seq_length=2 seq_position=2 lorand=0.750 hirand=1.000 sample=..\Wav\CPerlStveFrne14-HrdRH08.wav

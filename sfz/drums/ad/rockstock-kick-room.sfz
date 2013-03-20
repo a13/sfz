@@ -1,0 +1,51 @@
+// 034:  MDW22Kick-DynRF01.wav (-35.60)
+// 054:  MDW22Kick-DynRF02.wav (-27.40)
+// 072:  MDW22Kick-DynRF03.wav (-22.30)
+// 084:  MDW22Kick-DynRF04.wav (-19.60)
+// 099:  MDW22Kick-DynRF05.wav (-16.80)
+// 105:  MDW22Kick-DynRF06.wav (-15.80)
+// 107:  MDW22Kick-DynRF07.wav (-15.40)
+// 114:  MDW22Kick-DynRF08.wav (-14.30)
+// 122:  MDW22Kick-DynRF09.wav (-13.20)
+// 126:  MDW22Kick-DynRF12.wav (-12.70)
+// 126:  MDW22Kick-DynRF10.wav (-12.60)
+// 127:  MDW22Kick-DynRF11.wav (-12.50)
+<group> gain_cc12=12 loop_mode=one_shot key=36
+<region> lovel=001 hivel=034 amp_velcurve_034=1 sample=..\Wav\RDW22Kick-DynRF01.wav
+<region> lovel=035 hivel=054 amp_velcurve_054=1 sample=..\Wav\RDW22Kick-DynRF02.wav
+<region> lovel=055 hivel=072 amp_velcurve_072=1 sample=..\Wav\RDW22Kick-DynRF03.wav
+<region> lovel=073 hivel=084 amp_velcurve_084=1 sample=..\Wav\RDW22Kick-DynRF04.wav
+<region> lovel=085 hivel=099 amp_velcurve_099=1 sample=..\Wav\RDW22Kick-DynRF05.wav
+<region> lovel=100 hivel=105 amp_velcurve_105=1 sample=..\Wav\RDW22Kick-DynRF06.wav
+<region> lovel=106 hivel=107 amp_velcurve_107=1 sample=..\Wav\RDW22Kick-DynRF07.wav
+<region> lovel=108 hivel=114 amp_velcurve_114=1 sample=..\Wav\RDW22Kick-DynRF08.wav
+<region> lovel=115 hivel=122 amp_velcurve_122=1 sample=..\Wav\RDW22Kick-DynRF09.wav
+<region> lovel=123 hivel=125 amp_velcurve_126=1 sample=..\Wav\RDW22Kick-DynRF12.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 sample=..\Wav\RDW22Kick-DynRF10.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 sample=..\Wav\RDW22Kick-DynRF11.wav
+
+// 044:  MDW22Kick-DynLF01.wav (-31.50)
+// 067:  MDW22Kick-DynLF02.wav (-24.20)
+// 080:  MDW22Kick-DynLF03.wav (-21.30)
+// 086:  MDW22Kick-DynLF04.wav (-19.90)
+// 098:  MDW22Kick-DynLF05.wav (-17.70)
+// 099:  MDW22Kick-DynLF06.wav (-17.50)
+// 106:  MDW22Kick-DynLF07.wav (-16.30)
+// 113:  MDW22Kick-DynLF08.wav (-15.20)
+// 114:  MDW22Kick-DynLF09.wav (-15.10)
+// 119:  MDW22Kick-DynLF10.wav (-14.40)
+// 122:  MDW22Kick-DynLF11.wav (-13.90)
+// 127:  MDW22Kick-DynLF12.wav (-13.20)
+<group> gain_cc12=12 loop_mode=one_shot key=37
+<region> lovel=001 hivel=044 amp_velcurve_044=1 sample=..\Wav\RDW22Kick-DynLF01.wav
+<region> lovel=045 hivel=067 amp_velcurve_067=1 sample=..\Wav\RDW22Kick-DynLF02.wav
+<region> lovel=068 hivel=080 amp_velcurve_080=1 sample=..\Wav\RDW22Kick-DynLF03.wav
+<region> lovel=081 hivel=086 amp_velcurve_086=1 sample=..\Wav\RDW22Kick-DynLF04.wav
+<region> lovel=087 hivel=098 amp_velcurve_098=1 sample=..\Wav\RDW22Kick-DynLF05.wav
+<region> lovel=099 hivel=099 amp_velcurve_099=1 sample=..\Wav\RDW22Kick-DynLF06.wav
+<region> lovel=100 hivel=106 amp_velcurve_106=1 sample=..\Wav\RDW22Kick-DynLF07.wav
+<region> lovel=107 hivel=113 amp_velcurve_113=1 sample=..\Wav\RDW22Kick-DynLF08.wav
+<region> lovel=114 hivel=114 amp_velcurve_114=1 sample=..\Wav\RDW22Kick-DynLF09.wav
+<region> lovel=115 hivel=119 amp_velcurve_119=1 sample=..\Wav\RDW22Kick-DynLF10.wav
+<region> lovel=120 hivel=122 amp_velcurve_122=1 sample=..\Wav\RDW22Kick-DynLF11.wav
+<region> lovel=123 hivel=127 amp_velcurve_127=1 sample=..\Wav\RDW22Kick-DynLF12.wav

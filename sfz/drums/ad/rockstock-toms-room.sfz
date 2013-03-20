@@ -1,0 +1,277 @@
+// 020:  MDW10Tom-DynLH01.wav (-49.20)
+// 028:  MDW10Tom-DynLH02.wav (-42.90)
+// 042:  MDW10Tom-DynLH03.wav (-36.00)
+// 052:  MDW10Tom-DynLH04.wav (-32.20)
+// 071:  MDW10Tom-DynLH05.wav (-27.00)
+// 089:  MDW10Tom-DynLH06.wav (-23.00)
+// 091:  MDW10Tom-DynLH07.wav (-22.50)
+// 114:  MDW10Tom-DynLH08.wav (-18.60)
+// 115:  MDW10Tom-DynLH09.wav (-18.50)
+// 116:  MDW10Tom-DynLH10.wav (-18.30)
+// 119:  MDW10Tom-DynLH11.wav (-18.00)
+// 123:  MDW10Tom-DynLH13.wav (-17.40)
+// 123:  MDW10Tom-DynLH12.wav (-17.40)
+// 126:  MDW10Tom-DynLH15.wav (-17.00)
+// 126:  MDW10Tom-DynLH14.wav (-17.00)
+// 127:  MDW10Tom-DynLH16.wav (-16.80)
+<group> gain_cc12=12 loop_mode=one_shot key=45
+<region> lovel=001 hivel=020 amp_velcurve_020=1 sample=..\Wav\RDW10Tom-DynLH01.wav
+<region> lovel=021 hivel=028 amp_velcurve_028=1 sample=..\Wav\RDW10Tom-DynLH02.wav
+<region> lovel=029 hivel=042 amp_velcurve_042=1 sample=..\Wav\RDW10Tom-DynLH03.wav
+<region> lovel=043 hivel=052 amp_velcurve_052=1 sample=..\Wav\RDW10Tom-DynLH04.wav
+<region> lovel=053 hivel=071 amp_velcurve_071=1 sample=..\Wav\RDW10Tom-DynLH05.wav
+<region> lovel=072 hivel=089 amp_velcurve_089=1 sample=..\Wav\RDW10Tom-DynLH06.wav
+<region> lovel=090 hivel=091 amp_velcurve_091=1 sample=..\Wav\RDW10Tom-DynLH07.wav
+<region> lovel=092 hivel=114 amp_velcurve_114=1 sample=..\Wav\RDW10Tom-DynLH08.wav
+<region> lovel=115 hivel=115 amp_velcurve_115=1 sample=..\Wav\RDW10Tom-DynLH09.wav
+<region> lovel=116 hivel=116 amp_velcurve_116=1 sample=..\Wav\RDW10Tom-DynLH10.wav
+<region> lovel=117 hivel=119 amp_velcurve_119=1 sample=..\Wav\RDW10Tom-DynLH11.wav
+<region> lovel=120 hivel=123 amp_velcurve_123=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW10Tom-DynLH13.wav
+<region> lovel=120 hivel=123 amp_velcurve_123=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW10Tom-DynLH12.wav
+<region> lovel=124 hivel=126 amp_velcurve_126=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW10Tom-DynLH15.wav
+<region> lovel=124 hivel=126 amp_velcurve_126=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW10Tom-DynLH14.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 sample=..\Wav\RDW10Tom-DynLH16.wav
+
+
+// 018:  MDW10Tom-DynRH01.wav (-50.60)
+// 031:  MDW10Tom-DynRH02.wav (-41.00)
+// 052:  MDW10Tom-DynRH03.wav (-31.90)
+// 062:  MDW10Tom-DynRH05.wav (-28.80)
+// 063:  MDW10Tom-DynRH04.wav (-28.60)
+// 073:  MDW10Tom-DynRH06.wav (-26.00)
+// 084:  MDW10Tom-DynRH07.wav (-23.50)
+// 100:  MDW10Tom-DynRH08.wav (-20.50)
+// 113:  MDW10Tom-DynRH09.wav (-18.30)
+// 119:  MDW10Tom-DynRH10.wav (-17.50)
+// 122:  MDW10Tom-DynRH11.wav (-17.00)
+// 123:  MDW10Tom-DynRH12.wav (-16.80)
+// 125:  MDW10Tom-DynRH14.wav (-16.60)
+// 126:  MDW10Tom-DynRH16.wav (-16.50)
+// 126:  MDW10Tom-DynRH15.wav (-16.40)
+// 127:  MDW10Tom-DynRH13.wav (-16.30)
+<group> gain_cc12=12 loop_mode=one_shot key=46
+<region> lovel=001 hivel=018 amp_velcurve_018=1 sample=..\Wav\RDW10Tom-DynRH01.wav
+<region> lovel=019 hivel=031 amp_velcurve_031=1 sample=..\Wav\RDW10Tom-DynRH02.wav
+<region> lovel=032 hivel=052 amp_velcurve_052=1 sample=..\Wav\RDW10Tom-DynRH03.wav
+<region> lovel=053 hivel=062 amp_velcurve_062=1 sample=..\Wav\RDW10Tom-DynRH05.wav
+<region> lovel=063 hivel=063 amp_velcurve_063=1 sample=..\Wav\RDW10Tom-DynRH04.wav
+<region> lovel=064 hivel=073 amp_velcurve_073=1 sample=..\Wav\RDW10Tom-DynRH06.wav
+<region> lovel=074 hivel=084 amp_velcurve_084=1 sample=..\Wav\RDW10Tom-DynRH07.wav
+<region> lovel=085 hivel=100 amp_velcurve_100=1 sample=..\Wav\RDW10Tom-DynRH08.wav
+<region> lovel=101 hivel=113 amp_velcurve_113=1 sample=..\Wav\RDW10Tom-DynRH09.wav
+<region> lovel=114 hivel=119 amp_velcurve_119=1 sample=..\Wav\RDW10Tom-DynRH10.wav
+<region> lovel=120 hivel=122 amp_velcurve_122=1 sample=..\Wav\RDW10Tom-DynRH11.wav
+<region> lovel=123 hivel=123 amp_velcurve_123=1 sample=..\Wav\RDW10Tom-DynRH12.wav
+<region> lovel=124 hivel=125 amp_velcurve_125=1 sample=..\Wav\RDW10Tom-DynRH14.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW10Tom-DynRH16.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW10Tom-DynRH15.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 sample=..\Wav\RDW10Tom-DynRH13.wav
+
+// 034:  MDW12Tom-DynLH01.wav (-39.20)
+// 044:  MDW12Tom-DynLH02.wav (-35.00)
+// 062:  MDW12Tom-DynLH03.wav (-28.90)
+// 069:  MDW12Tom-DynLH04.wav (-27.10)
+// 075:  MDW12Tom-DynLH05.wav (-25.60)
+// 083:  MDW12Tom-DynLH06.wav (-23.80)
+// 096:  MDW12Tom-DynLH07.wav (-21.30)
+// 101:  MDW12Tom-DynLH08.wav (-20.30)
+// 107:  MDW12Tom-DynLH09.wav (-19.40)
+// 114:  MDW12Tom-DynLH10.wav (-18.20)
+// 115:  MDW12Tom-DynLH12.wav (-18.10)
+// 120:  MDW12Tom-DynLH11.wav (-17.40)
+// 126:  MDW12Tom-DynLH14.wav (-16.50)
+// 127:  MDW12Tom-DynLH16.wav (-16.40)
+// 127:  MDW12Tom-DynLH15.wav (-16.40)
+// 127:  MDW12Tom-DynLH13.wav (-16.40)
+<group> gain_cc12=12 loop_mode=one_shot key=47
+<region> lovel=001 hivel=034 amp_velcurve_034=1 sample=..\Wav\RDW12Tom-DynLH01.wav
+<region> lovel=035 hivel=044 amp_velcurve_044=1 sample=..\Wav\RDW12Tom-DynLH02.wav
+<region> lovel=045 hivel=062 amp_velcurve_062=1 sample=..\Wav\RDW12Tom-DynLH03.wav
+<region> lovel=063 hivel=069 amp_velcurve_069=1 sample=..\Wav\RDW12Tom-DynLH04.wav
+<region> lovel=070 hivel=075 amp_velcurve_075=1 sample=..\Wav\RDW12Tom-DynLH05.wav
+<region> lovel=076 hivel=083 amp_velcurve_083=1 sample=..\Wav\RDW12Tom-DynLH06.wav
+<region> lovel=084 hivel=096 amp_velcurve_096=1 sample=..\Wav\RDW12Tom-DynLH07.wav
+<region> lovel=097 hivel=101 amp_velcurve_101=1 sample=..\Wav\RDW12Tom-DynLH08.wav
+<region> lovel=102 hivel=107 amp_velcurve_107=1 sample=..\Wav\RDW12Tom-DynLH09.wav
+<region> lovel=108 hivel=114 amp_velcurve_114=1 sample=..\Wav\RDW12Tom-DynLH10.wav
+<region> lovel=115 hivel=115 amp_velcurve_115=1 sample=..\Wav\RDW12Tom-DynLH12.wav
+<region> lovel=116 hivel=120 amp_velcurve_120=1 sample=..\Wav\RDW12Tom-DynLH11.wav
+<region> lovel=121 hivel=126 amp_velcurve_126=1 sample=..\Wav\RDW12Tom-DynLH14.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 lorand=0.000 hirand=0.333 sample=..\Wav\RDW12Tom-DynLH16.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 lorand=0.333 hirand=0.667 sample=..\Wav\RDW12Tom-DynLH15.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 lorand=0.667 hirand=1.000 sample=..\Wav\RDW12Tom-DynLH13.wav
+
+
+// 032:  MDW12Tom-DynRH01.wav (-40.10)
+// 046:  MDW12Tom-DynRH02.wav (-33.70)
+// 061:  MDW12Tom-DynRH03.wav (-28.60)
+// 070:  MDW12Tom-DynRH04.wav (-26.30)
+// 088:  MDW12Tom-DynRH05.wav (-22.30)
+// 097:  MDW12Tom-DynRH06.wav (-20.70)
+// 105:  MDW12Tom-DynRH07.wav (-19.30)
+// 111:  MDW12Tom-DynRH08.wav (-18.40)
+// 114:  MDW12Tom-DynRH09.wav (-17.90)
+// 121:  MDW12Tom-DynRH11.wav (-16.90)
+// 123:  MDW12Tom-DynRH10.wav (-16.60)
+// 125:  MDW12Tom-DynRH16.wav (-16.30)
+// 125:  MDW12Tom-DynRH13.wav (-16.30)
+// 126:  MDW12Tom-DynRH12.wav (-16.20)
+// 126:  MDW12Tom-DynRH14.wav (-16.10)
+// 127:  MDW12Tom-DynRH15.wav (-16.00)
+<group> gain_cc12=12 loop_mode=one_shot key=48
+<region> lovel=001 hivel=032 amp_velcurve_032=1 sample=..\Wav\RDW12Tom-DynRH01.wav
+<region> lovel=033 hivel=046 amp_velcurve_046=1 sample=..\Wav\RDW12Tom-DynRH02.wav
+<region> lovel=047 hivel=061 amp_velcurve_061=1 sample=..\Wav\RDW12Tom-DynRH03.wav
+<region> lovel=062 hivel=070 amp_velcurve_070=1 sample=..\Wav\RDW12Tom-DynRH04.wav
+<region> lovel=071 hivel=088 amp_velcurve_088=1 sample=..\Wav\RDW12Tom-DynRH05.wav
+<region> lovel=089 hivel=097 amp_velcurve_097=1 sample=..\Wav\RDW12Tom-DynRH06.wav
+<region> lovel=098 hivel=105 amp_velcurve_105=1 sample=..\Wav\RDW12Tom-DynRH07.wav
+<region> lovel=106 hivel=111 amp_velcurve_111=1 sample=..\Wav\RDW12Tom-DynRH08.wav
+<region> lovel=112 hivel=114 amp_velcurve_114=1 sample=..\Wav\RDW12Tom-DynRH09.wav
+<region> lovel=115 hivel=121 amp_velcurve_121=1 sample=..\Wav\RDW12Tom-DynRH11.wav
+<region> lovel=122 hivel=123 amp_velcurve_123=1 sample=..\Wav\RDW12Tom-DynRH10.wav
+<region> lovel=124 hivel=125 amp_velcurve_125=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW12Tom-DynRH16.wav
+<region> lovel=124 hivel=125 amp_velcurve_125=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW12Tom-DynRH13.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW12Tom-DynRH12.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW12Tom-DynRH14.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 sample=..\Wav\RDW12Tom-DynRH15.wav
+
+// 032:  MDW14Tom-DynLH01.wav (-40.30)
+// 049:  MDW14Tom-DynLH02.wav (-33.30)
+// 061:  MDW14Tom-DynLH03.wav (-29.40)
+// 071:  MDW14Tom-DynLH04.wav (-26.70)
+// 089:  MDW14Tom-DynLH05.wav (-22.70)
+// 096:  MDW14Tom-DynLH06.wav (-21.40)
+// 109:  MDW14Tom-DynLH07.wav (-19.20)
+// 114:  MDW14Tom-DynLH08.wav (-18.50)
+// 114:  MDW14Tom-DynLH09.wav (-18.40)
+// 122:  MDW14Tom-DynLH10.wav (-17.30)
+// 123:  MDW14Tom-DynLH12.wav (-17.10)
+// 124:  MDW14Tom-DynLH11.wav (-17.00)
+// 125:  MDW14Tom-DynLH14.wav (-16.90)
+// 125:  MDW14Tom-DynLH13.wav (-16.90)
+// 126:  MDW14Tom-DynLH16.wav (-16.80)
+// 127:  MDW14Tom-DynLH15.wav (-16.60)
+<group> gain_cc12=12 loop_mode=one_shot key=49
+<region> lovel=001 hivel=032 amp_velcurve_032=1 sample=..\Wav\RDW14Tom-DynLH01.wav
+<region> lovel=033 hivel=049 amp_velcurve_049=1 sample=..\Wav\RDW14Tom-DynLH02.wav
+<region> lovel=050 hivel=061 amp_velcurve_061=1 sample=..\Wav\RDW14Tom-DynLH03.wav
+<region> lovel=062 hivel=071 amp_velcurve_071=1 sample=..\Wav\RDW14Tom-DynLH04.wav
+<region> lovel=072 hivel=089 amp_velcurve_089=1 sample=..\Wav\RDW14Tom-DynLH05.wav
+<region> lovel=090 hivel=096 amp_velcurve_096=1 sample=..\Wav\RDW14Tom-DynLH06.wav
+<region> lovel=097 hivel=109 amp_velcurve_109=1 sample=..\Wav\RDW14Tom-DynLH07.wav
+<region> lovel=110 hivel=114 amp_velcurve_114=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW14Tom-DynLH08.wav
+<region> lovel=110 hivel=114 amp_velcurve_114=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW14Tom-DynLH09.wav
+<region> lovel=115 hivel=122 amp_velcurve_122=1 sample=..\Wav\RDW14Tom-DynLH10.wav
+<region> lovel=123 hivel=123 amp_velcurve_123=1 sample=..\Wav\RDW14Tom-DynLH12.wav
+<region> lovel=124 hivel=124 amp_velcurve_124=1 sample=..\Wav\RDW14Tom-DynLH11.wav
+<region> lovel=125 hivel=125 amp_velcurve_125=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW14Tom-DynLH14.wav
+<region> lovel=125 hivel=125 amp_velcurve_125=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW14Tom-DynLH13.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 sample=..\Wav\RDW14Tom-DynLH16.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 sample=..\Wav\RDW14Tom-DynLH15.wav
+
+
+// 030:  MDW14Tom-DynRH01.wav (-41.60)
+// 046:  MDW14Tom-DynRH02.wav (-34.60)
+// 061:  MDW14Tom-DynRH03.wav (-29.60)
+// 065:  MDW14Tom-DynRH04.wav (-28.50)
+// 076:  MDW14Tom-DynRH05.wav (-25.80)
+// 093:  MDW14Tom-DynRH06.wav (-22.20)
+// 103:  MDW14Tom-DynRH07.wav (-20.50)
+// 110:  MDW14Tom-DynRH08.wav (-19.30)
+// 114:  MDW14Tom-DynRH09.wav (-18.60)
+// 120:  MDW14Tom-DynRH11.wav (-17.80)
+// 121:  MDW14Tom-DynRH15.wav (-17.70)
+// 122:  MDW14Tom-DynRH10.wav (-17.50)
+// 124:  MDW14Tom-DynRH13.wav (-17.20)
+// 126:  MDW14Tom-DynRH16.wav (-16.90)
+// 127:  MDW14Tom-DynRH12.wav (-16.80)
+// 127:  MDW14Tom-DynRH14.wav (-16.80)
+<group> gain_cc12=12 loop_mode=one_shot key=50
+<region> lovel=001 hivel=030 amp_velcurve_030=1 sample=..\Wav\RDW14Tom-DynRH01.wav
+<region> lovel=031 hivel=046 amp_velcurve_046=1 sample=..\Wav\RDW14Tom-DynRH02.wav
+<region> lovel=047 hivel=061 amp_velcurve_061=1 sample=..\Wav\RDW14Tom-DynRH03.wav
+<region> lovel=062 hivel=065 amp_velcurve_065=1 sample=..\Wav\RDW14Tom-DynRH04.wav
+<region> lovel=066 hivel=076 amp_velcurve_076=1 sample=..\Wav\RDW14Tom-DynRH05.wav
+<region> lovel=077 hivel=093 amp_velcurve_093=1 sample=..\Wav\RDW14Tom-DynRH06.wav
+<region> lovel=094 hivel=103 amp_velcurve_103=1 sample=..\Wav\RDW14Tom-DynRH07.wav
+<region> lovel=104 hivel=110 amp_velcurve_110=1 sample=..\Wav\RDW14Tom-DynRH08.wav
+<region> lovel=111 hivel=114 amp_velcurve_114=1 sample=..\Wav\RDW14Tom-DynRH09.wav
+<region> lovel=115 hivel=120 amp_velcurve_120=1 sample=..\Wav\RDW14Tom-DynRH11.wav
+<region> lovel=121 hivel=121 amp_velcurve_121=1 sample=..\Wav\RDW14Tom-DynRH15.wav
+<region> lovel=122 hivel=122 amp_velcurve_122=1 sample=..\Wav\RDW14Tom-DynRH10.wav
+<region> lovel=123 hivel=124 amp_velcurve_124=1 sample=..\Wav\RDW14Tom-DynRH13.wav
+<region> lovel=125 hivel=126 amp_velcurve_126=1 sample=..\Wav\RDW14Tom-DynRH16.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW14Tom-DynRH12.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW14Tom-DynRH14.wav
+
+// 028:  MDW16Tom-DynLH01.wav (-41.80)
+// 047:  MDW16Tom-DynLH02.wav (-33.00)
+// 061:  MDW16Tom-DynLH03.wav (-28.60)
+// 063:  MDW16Tom-DynLH04.wav (-27.90)
+// 081:  MDW16Tom-DynLH05.wav (-23.60)
+// 083:  MDW16Tom-DynLH06.wav (-23.20)
+// 088:  MDW16Tom-DynLH07.wav (-22.10)
+// 089:  MDW16Tom-DynLH08.wav (-21.90)
+// 099:  MDW16Tom-DynLH09.wav (-20.10)
+// 107:  MDW16Tom-DynLH10.wav (-18.80)
+// 115:  MDW16Tom-DynLH16.wav (-17.50)
+// 118:  MDW16Tom-DynLH11.wav (-17.10)
+// 124:  MDW16Tom-DynLH12.wav (-16.20)
+// 125:  MDW16Tom-DynLH14.wav (-16.10)
+// 126:  MDW16Tom-DynLH15.wav (-15.90)
+// 127:  MDW16Tom-DynLH13.wav (-15.80)
+<group> gain_cc12=12 loop_mode=one_shot key=51
+<region> lovel=001 hivel=028 amp_velcurve_028=1 sample=..\Wav\RDW16Tom-DynLH01.wav
+<region> lovel=029 hivel=047 amp_velcurve_047=1 sample=..\Wav\RDW16Tom-DynLH02.wav
+<region> lovel=048 hivel=061 amp_velcurve_061=1 sample=..\Wav\RDW16Tom-DynLH03.wav
+<region> lovel=062 hivel=063 amp_velcurve_063=1 sample=..\Wav\RDW16Tom-DynLH04.wav
+<region> lovel=064 hivel=081 amp_velcurve_081=1 sample=..\Wav\RDW16Tom-DynLH05.wav
+<region> lovel=082 hivel=083 amp_velcurve_083=1 sample=..\Wav\RDW16Tom-DynLH06.wav
+<region> lovel=084 hivel=088 amp_velcurve_088=1 sample=..\Wav\RDW16Tom-DynLH07.wav
+<region> lovel=089 hivel=089 amp_velcurve_089=1 sample=..\Wav\RDW16Tom-DynLH08.wav
+<region> lovel=090 hivel=099 amp_velcurve_099=1 sample=..\Wav\RDW16Tom-DynLH09.wav
+<region> lovel=100 hivel=107 amp_velcurve_107=1 sample=..\Wav\RDW16Tom-DynLH10.wav
+<region> lovel=108 hivel=115 amp_velcurve_115=1 sample=..\Wav\RDW16Tom-DynLH16.wav
+<region> lovel=116 hivel=118 amp_velcurve_118=1 sample=..\Wav\RDW16Tom-DynLH11.wav
+<region> lovel=119 hivel=124 amp_velcurve_124=1 sample=..\Wav\RDW16Tom-DynLH12.wav
+<region> lovel=125 hivel=125 amp_velcurve_125=1 sample=..\Wav\RDW16Tom-DynLH14.wav
+<region> lovel=126 hivel=126 amp_velcurve_126=1 sample=..\Wav\RDW16Tom-DynLH15.wav
+<region> lovel=127 hivel=127 amp_velcurve_127=1 sample=..\Wav\RDW16Tom-DynLH13.wav
+
+
+// 024:  MDW16Tom-DynRH01.wav (-44.40)
+// 040:  MDW16Tom-DynRH02.wav (-35.50)
+// 055:  MDW16Tom-DynRH03.wav (-30.20)
+// 061:  MDW16Tom-DynRH04.wav (-28.30)
+// 061:  MDW16Tom-DynRH05.wav (-28.20)
+// 073:  MDW16Tom-DynRH06.wav (-25.20)
+// 077:  MDW16Tom-DynRH07.wav (-24.40)
+// 082:  MDW16Tom-DynRH08.wav (-23.20)
+// 088:  MDW16Tom-DynRH09.wav (-22.00)
+// 099:  MDW16Tom-DynRH10.wav (-19.90)
+// 109:  MDW16Tom-DynRH11.wav (-18.20)
+// 116:  MDW16Tom-DynRH13.wav (-17.10)
+// 119:  MDW16Tom-DynRH12.wav (-16.70)
+// 123:  MDW16Tom-DynRH15.wav (-16.20)
+// 124:  MDW16Tom-DynRH14.wav (-16.00)
+// 127:  MDW16Tom-DynRH16.wav (-15.60)
+<group> gain_cc12=12 loop_mode=one_shot key=52
+<region> lovel=001 hivel=024 amp_velcurve_024=1 sample=..\Wav\RDW16Tom-DynRH01.wav
+<region> lovel=025 hivel=040 amp_velcurve_040=1 sample=..\Wav\RDW16Tom-DynRH02.wav
+<region> lovel=041 hivel=055 amp_velcurve_055=1 sample=..\Wav\RDW16Tom-DynRH03.wav
+<region> lovel=056 hivel=061 amp_velcurve_061=1 lorand=0.000 hirand=0.500 sample=..\Wav\RDW16Tom-DynRH04.wav
+<region> lovel=056 hivel=061 amp_velcurve_061=1 lorand=0.500 hirand=1.000 sample=..\Wav\RDW16Tom-DynRH05.wav
+<region> lovel=062 hivel=073 amp_velcurve_073=1 sample=..\Wav\RDW16Tom-DynRH06.wav
+<region> lovel=074 hivel=077 amp_velcurve_077=1 sample=..\Wav\RDW16Tom-DynRH07.wav
+<region> lovel=078 hivel=082 amp_velcurve_082=1 sample=..\Wav\RDW16Tom-DynRH08.wav
+<region> lovel=083 hivel=088 amp_velcurve_088=1 sample=..\Wav\RDW16Tom-DynRH09.wav
+<region> lovel=089 hivel=099 amp_velcurve_099=1 sample=..\Wav\RDW16Tom-DynRH10.wav
+<region> lovel=100 hivel=109 amp_velcurve_109=1 sample=..\Wav\RDW16Tom-DynRH11.wav
+<region> lovel=110 hivel=116 amp_velcurve_116=1 sample=..\Wav\RDW16Tom-DynRH13.wav
+<region> lovel=117 hivel=119 amp_velcurve_119=1 sample=..\Wav\RDW16Tom-DynRH12.wav
+<region> lovel=120 hivel=123 amp_velcurve_123=1 sample=..\Wav\RDW16Tom-DynRH15.wav
+<region> lovel=124 hivel=124 amp_velcurve_124=1 sample=..\Wav\RDW16Tom-DynRH14.wav
+<region> lovel=125 hivel=127 amp_velcurve_127=1 sample=..\Wav\RDW16Tom-DynRH16.wav
+
+
