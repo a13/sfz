@@ -5,6 +5,6 @@ $(SCRIPT): $(SCRIPT).in Makefile
 
 .PHONY: clean
 
-clea:n
+clean:
 	rm -rf $(SCRIPT)
 
