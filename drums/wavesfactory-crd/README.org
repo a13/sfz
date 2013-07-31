@@ -19,10 +19,16 @@ cd linuxsampler
 make
 #+END_SRC
 
-* TODO
+** Non-mixer
 
-** Non-mixer/Ardour templates
+Non-mixer project, for panning only so far.
 
-** Muse/Non-sequencer mappings
+* Plans :)
+
+** TODO Non-connections (LS->Non-Mixer)
+
+** TODO Ardour templates
+
+** TODO Muse/Non-sequencer mappings
 
 ** Whatever
