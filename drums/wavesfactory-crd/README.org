@@ -1,0 +1,28 @@
+* WTF?
+Linux-specific files for [[http://www.wavesfactory.com/classic-rock-drums.php][Wavesfactory Classic Rock Drums]] (Ludwig Vistalite drum kit with a Supraphonic snare and Zildjian cymbals).
+
+* What's inside?
+
+** Samples?
+No Samples included, sorry. You have to buy your own copy, download and extract "Samples" directory here.
+
+** Sfz mappings
+
+8 sfz files, one per microphone
+
+** Linuxsampler script
+
+Linuxsampler doesn't like relative paths, so we have to generate script ourselves:
+#+NAME: howto
+#+BEGIN_SRC shell
+cd linuxsampler
+make
+#+END_SRC
+
+* TODO
+
+** Non-mixer/Ardour templates
+
+** Muse/Non-sequencer mappings
+
+** Whatever
