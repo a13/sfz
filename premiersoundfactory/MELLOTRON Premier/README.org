@@ -1,0 +1,35 @@
+* WTF?
+Linux-specific files for [[http://www.premiersoundfactory.com/modules/zox/mellotronpremier-p-3.html][MELLOTRON Premier]] (Mellotron M400S Samples).
+
+* What's inside?
+
+** Samples
+
+You can download samples for free (registration required). Put downloaded files here and run ./unpack.sh.
+
+** Sfz mappings
+
+Flute, Cello, Strings
+
+# ** Linuxsampler script
+
+# Linuxsampler doesn't like relative paths, so we have to generate script ourselves:
+# #+NAME: howto
+# #+BEGIN_SRC shell
+# cd linuxsampler
+# make
+# #+END_SRC
+
+# ** Non-mixer
+
+# Non-mixer project, for panning only so far.
+
+# * Plans :)
+
+# ** TODO Non-connections (LS->Non-Mixer)
+
+# ** TODO Ardour templates
+
+# ** TODO Muse/Non-sequencer mappings
+
+# ** Whatever
