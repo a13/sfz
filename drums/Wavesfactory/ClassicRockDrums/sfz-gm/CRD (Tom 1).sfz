@@ -282,7 +282,45 @@
 <region> sample=..\Samples\HiHatMedium2Side-EEV1-H.wav lovel=116 hivel=127 amp_velcurve_127=1 seq_position=5
 <region> sample=..\Samples\HiHatMedium2Side-J7AB-H.wav lovel=116 hivel=127 amp_velcurve_127=1 seq_position=6
 
-<group> lokey=35 hikey=36 volume=0.00163
+<group> key=35 volume=0.00163
+<region> sample=..\Samples\Kick-9CJO-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=1
+<region> sample=..\Samples\Kick-FQLQ-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=2
+<region> sample=..\Samples\Kick-18H1-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=3
+<region> sample=..\Samples\Kick-IZP6-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=4
+<region> sample=..\Samples\Kick-7O1N-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=5
+<region> sample=..\Samples\Kick-ITE6-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=6
+<region> sample=..\Samples\Kick-ZKF5-H.wav lovel=26 hivel=50 amp_velcurve_50=1 seq_position=1
+<region> sample=..\Samples\Kick-CVVP-H.wav lovel=26 hivel=50 amp_velcurve_50=1 seq_position=2
+<region> sample=..\Samples\Kick-2UWR-H.wav lovel=26 hivel=50 amp_velcurve_50=1 seq_position=3
+<region> sample=..\Samples\Kick-7P4Z-H.wav lovel=26 hivel=50 amp_velcurve_50=1 seq_position=4
+<region> sample=..\Samples\Kick-TYVZ-H.wav lovel=26 hivel=50 amp_velcurve_50=1 seq_position=5
+<region> sample=..\Samples\Kick-QR3C-H.wav lovel=26 hivel=50 amp_velcurve_50=1 seq_position=6
+<region> sample=..\Samples\Kick-0QZU-H.wav lovel=51 hivel=75 amp_velcurve_75=1 seq_position=1
+<region> sample=..\Samples\Kick-K489-H.wav lovel=51 hivel=75 amp_velcurve_75=1 seq_position=2
+<region> sample=..\Samples\Kick-9967-H.wav lovel=51 hivel=75 amp_velcurve_75=1 seq_position=3
+<region> sample=..\Samples\Kick-MSOV-H.wav lovel=51 hivel=75 amp_velcurve_75=1 seq_position=4
+<region> sample=..\Samples\Kick-MPVX-H.wav lovel=51 hivel=75 amp_velcurve_75=1 seq_position=5
+<region> sample=..\Samples\Kick-9I1B-H.wav lovel=51 hivel=75 amp_velcurve_75=1 seq_position=6
+<region> sample=..\Samples\Kick-FTO3-H.wav lovel=76 hivel=95 amp_velcurve_95=1 seq_position=1
+<region> sample=..\Samples\Kick-48DW-H.wav lovel=76 hivel=95 amp_velcurve_95=1 seq_position=2
+<region> sample=..\Samples\Kick-S4CL-H.wav lovel=76 hivel=95 amp_velcurve_95=1 seq_position=3
+<region> sample=..\Samples\Kick-GCDD-H.wav lovel=76 hivel=95 amp_velcurve_95=1 seq_position=4
+<region> sample=..\Samples\Kick-EKNF-H.wav lovel=76 hivel=95 amp_velcurve_95=1 seq_position=5
+<region> sample=..\Samples\Kick-4EZN-H.wav lovel=76 hivel=95 amp_velcurve_95=1 seq_position=6
+<region> sample=..\Samples\Kick-ZE5J-H.wav lovel=96 hivel=115 amp_velcurve_115=1 seq_position=1
+<region> sample=..\Samples\Kick-BNAO-H.wav lovel=96 hivel=115 amp_velcurve_115=1 seq_position=2
+<region> sample=..\Samples\Kick-ZI1G-H.wav lovel=96 hivel=115 amp_velcurve_115=1 seq_position=3
+<region> sample=..\Samples\Kick-JR0D-H.wav lovel=96 hivel=115 amp_velcurve_115=1 seq_position=4
+<region> sample=..\Samples\Kick-0HJZ-H.wav lovel=96 hivel=115 amp_velcurve_115=1 seq_position=5
+<region> sample=..\Samples\Kick-HZGS-H.wav lovel=96 hivel=115 amp_velcurve_115=1 seq_position=6
+<region> sample=..\Samples\Kick-C3DR-H.wav lovel=116 hivel=127 amp_velcurve_127=1 seq_position=1
+<region> sample=..\Samples\Kick-PMNO-H.wav lovel=116 hivel=127 amp_velcurve_127=1 seq_position=2
+<region> sample=..\Samples\Kick-JHXR-H.wav lovel=116 hivel=127 amp_velcurve_127=1 seq_position=3
+<region> sample=..\Samples\Kick-OJUZ-H.wav lovel=116 hivel=127 amp_velcurve_127=1 seq_position=4
+<region> sample=..\Samples\Kick-Z52J-H.wav lovel=116 hivel=127 amp_velcurve_127=1 seq_position=5
+<region> sample=..\Samples\Kick-F4S5-H.wav lovel=116 hivel=127 amp_velcurve_127=1 seq_position=6
+
+<group> key=36 volume=0.00163
 <region> sample=..\Samples\Kick-9CJO-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=1
 <region> sample=..\Samples\Kick-FQLQ-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=2
 <region> sample=..\Samples\Kick-18H1-H.wav lovel=1 hivel=25 amp_velcurve_25=1 seq_position=3
