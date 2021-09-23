@@ -1,0 +1,390 @@
+<?xml version="1.0"?>
+<muse version="1.0">
+  <drumMapPatch patch="16776960">
+    <entry idx="0">
+      <hide>1</hide>
+    </entry>
+    <entry idx="1">
+      <hide>1</hide>
+    </entry>
+    <entry idx="2">
+      <hide>1</hide>
+    </entry>
+    <entry idx="3">
+      <hide>1</hide>
+    </entry>
+    <entry idx="4">
+      <hide>1</hide>
+    </entry>
+    <entry idx="5">
+      <hide>1</hide>
+    </entry>
+    <entry idx="6">
+      <hide>1</hide>
+    </entry>
+    <entry idx="7">
+      <hide>1</hide>
+    </entry>
+    <entry idx="8">
+      <hide>1</hide>
+    </entry>
+    <entry idx="9">
+      <hide>1</hide>
+    </entry>
+    <entry idx="10">
+      <hide>1</hide>
+    </entry>
+    <entry idx="11">
+      <hide>1</hide>
+    </entry>
+    <entry idx="12">
+      <hide>1</hide>
+    </entry>
+    <entry idx="13">
+      <hide>1</hide>
+    </entry>
+    <entry idx="14">
+      <hide>1</hide>
+    </entry>
+    <entry idx="15">
+      <hide>1</hide>
+    </entry>
+    <entry idx="16">
+      <hide>1</hide>
+    </entry>
+    <entry idx="17">
+      <hide>1</hide>
+    </entry>
+    <entry idx="18">
+      <hide>1</hide>
+    </entry>
+    <entry idx="19">
+      <hide>1</hide>
+    </entry>
+    <entry idx="20">
+      <hide>1</hide>
+    </entry>
+    <entry idx="21">
+      <hide>1</hide>
+    </entry>
+    <entry idx="22">
+      <hide>1</hide>
+    </entry>
+    <entry idx="23">
+      <hide>1</hide>
+    </entry>
+    <entry idx="24">
+      <hide>1</hide>
+    </entry>
+    <entry idx="25">
+      <hide>1</hide>
+    </entry>
+    <entry idx="26">
+      <hide>1</hide>
+    </entry>
+    <entry idx="27">
+      <hide>1</hide>
+    </entry>
+    <entry idx="28">
+      <hide>1</hide>
+    </entry>
+    <entry idx="29">
+      <hide>1</hide>
+    </entry>
+    <entry idx="30">
+      <hide>1</hide>
+    </entry>
+    <entry idx="31">
+      <hide>1</hide>
+    </entry>
+    <entry idx="32">
+      <hide>1</hide>
+    </entry>
+    <entry idx="33">
+      <hide>1</hide>
+    </entry>
+    <entry idx="34">
+      <hide>1</hide>
+    </entry>
+    <entry idx="35">
+      <hide>1</hide>
+    </entry>
+    <entry idx="36">
+      <name>Kick</name>
+    </entry>
+    <entry idx="37">
+      <name>RimShot</name>
+    </entry>
+    <entry idx="38">
+      <name>Snare</name>
+    </entry>
+    <entry idx="39">
+      <name>SnareSide</name>
+    </entry>
+    <entry idx="40">
+      <name>Snare</name>
+    </entry>
+    <entry idx="41">
+      <name>Tom3</name>
+    </entry>
+    <entry idx="42">
+      <name>HiHatClosedSide</name>
+    </entry>
+    <entry idx="43">
+      <name>Tom3</name>
+    </entry>
+    <entry idx="44">
+      <name>HiHatClosing</name>
+    </entry>
+    <entry idx="45">
+      <name>Tom2</name>
+    </entry>
+    <entry idx="46">
+      <name>HiHatOpened</name>
+    </entry>
+    <entry idx="47">
+      <name>Tom2</name>
+    </entry>
+    <entry idx="48">
+      <name>Tom1</name>
+    </entry>
+    <entry idx="49">
+      <name>Crash1</name>
+    </entry>
+    <entry idx="50">
+      <name>Tom1</name>
+    </entry>
+    <entry idx="51">
+      <name>Ride</name>
+    </entry>
+    <entry idx="52">
+      <name>Crash2</name>
+    </entry>
+    <entry idx="53">
+      <name>Bell</name>
+    </entry>
+    <entry idx="54">
+      <hide>1</hide>
+    </entry>
+    <entry idx="55">
+      <name>Sticks</name>
+    </entry>
+    <entry idx="56">
+      <hide>1</hide>
+    </entry>
+    <entry idx="57">
+      <hide>1</hide>
+    </entry>
+    <entry idx="58">
+      <hide>1</hide>
+    </entry>
+    <entry idx="59">
+      <hide>1</hide>
+    </entry>
+    <entry idx="60">
+      <name>HiHatClosedTop</name>
+    </entry>
+    <entry idx="61">
+      <name>HiHatMediumTop</name>
+    </entry>
+    <entry idx="62">
+      <name>HiHatMedium2Top</name>
+    </entry>
+    <entry idx="63">
+      <name>HiHatMediumSide</name>
+    </entry>
+    <entry idx="64">
+      <name>HiHatMedium2Side</name>
+    </entry>
+    <entry idx="65">
+      <name>HiHatOpening</name>
+      <mute>0</mute>
+    </entry>
+    <entry idx="66">
+      <hide>1</hide>
+    </entry>
+    <entry idx="67">
+      <hide>1</hide>
+    </entry>
+    <entry idx="68">
+      <hide>1</hide>
+    </entry>
+    <entry idx="69">
+      <hide>1</hide>
+    </entry>
+    <entry idx="70">
+      <hide>1</hide>
+    </entry>
+    <entry idx="71">
+      <hide>1</hide>
+    </entry>
+    <entry idx="72">
+      <hide>1</hide>
+    </entry>
+    <entry idx="73">
+      <hide>1</hide>
+    </entry>
+    <entry idx="74">
+      <hide>1</hide>
+    </entry>
+    <entry idx="75">
+      <hide>1</hide>
+    </entry>
+    <entry idx="76">
+      <hide>1</hide>
+    </entry>
+    <entry idx="77">
+      <hide>1</hide>
+    </entry>
+    <entry idx="78">
+      <hide>1</hide>
+    </entry>
+    <entry idx="79">
+      <hide>1</hide>
+    </entry>
+    <entry idx="80">
+      <hide>1</hide>
+    </entry>
+    <entry idx="81">
+      <hide>1</hide>
+    </entry>
+    <entry idx="82">
+      <hide>1</hide>
+    </entry>
+    <entry idx="83">
+      <hide>1</hide>
+    </entry>
+    <entry idx="84">
+      <hide>1</hide>
+    </entry>
+    <entry idx="85">
+      <hide>1</hide>
+    </entry>
+    <entry idx="86">
+      <hide>1</hide>
+    </entry>
+    <entry idx="87">
+      <hide>1</hide>
+    </entry>
+    <entry idx="88">
+      <hide>1</hide>
+    </entry>
+    <entry idx="89">
+      <hide>1</hide>
+    </entry>
+    <entry idx="90">
+      <hide>1</hide>
+    </entry>
+    <entry idx="91">
+      <hide>1</hide>
+    </entry>
+    <entry idx="92">
+      <hide>1</hide>
+    </entry>
+    <entry idx="93">
+      <hide>1</hide>
+    </entry>
+    <entry idx="94">
+      <hide>1</hide>
+    </entry>
+    <entry idx="95">
+      <hide>1</hide>
+    </entry>
+    <entry idx="96">
+      <hide>1</hide>
+    </entry>
+    <entry idx="97">
+      <hide>1</hide>
+    </entry>
+    <entry idx="98">
+      <hide>1</hide>
+    </entry>
+    <entry idx="99">
+      <hide>1</hide>
+    </entry>
+    <entry idx="100">
+      <hide>1</hide>
+    </entry>
+    <entry idx="101">
+      <hide>1</hide>
+    </entry>
+    <entry idx="102">
+      <hide>1</hide>
+    </entry>
+    <entry idx="103">
+      <hide>1</hide>
+    </entry>
+    <entry idx="104">
+      <hide>1</hide>
+    </entry>
+    <entry idx="105">
+      <hide>1</hide>
+    </entry>
+    <entry idx="106">
+      <hide>1</hide>
+    </entry>
+    <entry idx="107">
+      <hide>1</hide>
+    </entry>
+    <entry idx="108">
+      <hide>1</hide>
+    </entry>
+    <entry idx="109">
+      <hide>1</hide>
+    </entry>
+    <entry idx="110">
+      <hide>1</hide>
+    </entry>
+    <entry idx="111">
+      <hide>1</hide>
+    </entry>
+    <entry idx="112">
+      <hide>1</hide>
+    </entry>
+    <entry idx="113">
+      <hide>1</hide>
+    </entry>
+    <entry idx="114">
+      <hide>1</hide>
+    </entry>
+    <entry idx="115">
+      <hide>1</hide>
+    </entry>
+    <entry idx="116">
+      <hide>1</hide>
+    </entry>
+    <entry idx="117">
+      <hide>1</hide>
+    </entry>
+    <entry idx="118">
+      <hide>1</hide>
+    </entry>
+    <entry idx="119">
+      <hide>1</hide>
+    </entry>
+    <entry idx="120">
+      <hide>1</hide>
+    </entry>
+    <entry idx="121">
+      <hide>1</hide>
+    </entry>
+    <entry idx="122">
+      <hide>1</hide>
+    </entry>
+    <entry idx="123">
+      <hide>1</hide>
+    </entry>
+    <entry idx="124">
+      <hide>1</hide>
+    </entry>
+    <entry idx="125">
+      <hide>1</hide>
+    </entry>
+    <entry idx="126">
+      <hide>1</hide>
+    </entry>
+    <entry idx="127">
+      <hide>1</hide>
+    </entry>
+  </drumMapPatch>
+</muse>
